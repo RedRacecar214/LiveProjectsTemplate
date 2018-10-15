@@ -13,4 +13,5 @@ worklog_<yourname>_<ddmmyy>.md
 ```
 
 This is my entry for git hub _<redracecar214>_<15/10/2018>.md
-This is my entry from the browser_<redracecar214>_<15/10/2018>.md
+  
+This is my entry from the browser_<redracecar214>_<14/10/2018>.md
